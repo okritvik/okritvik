@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/40200916/183264381-85ff89b0-3181-4049-bb84-1d973449ad0f.jpg" width="375" height="500"
+<img src="https://user-images.githubusercontent.com/40200916/186563989-83f35110-5fea-46a2-b3bb-a0574ddf4a39.png" width="350" height="450"
 </p>
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/><h2>Hey there! I'm Kumara Ritvik Oruganti</h2>
