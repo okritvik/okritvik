@@ -3,7 +3,6 @@
 <!--
 ### Hi there 👋
 **okritvik/okritvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -61,8 +60,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okritvik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okritvik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=okritvik&color=blueviolet&&style=for-the-badge">
 </p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 <a href="mailto:okritvik@umd.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/theoruganti"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+![](https://komarev.com/ghpvc/?username=okritvik&color=green)
