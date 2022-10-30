@@ -61,7 +61,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okritvik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okritvik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  <br>
+![](https://hit.yhype.me/github/profile?user_id=40200916)
+<br>
+![](https://komarev.com/ghpvc/?username=okritvik&color=blueviolet&style=for-the-badge)
 </p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
