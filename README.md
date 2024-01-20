@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/40200916/186563989-83f35110-5fea-46a2-b3bb-a0574ddf4a39.png" width="350" height="425"
+<img src="https://github.com/okritvik/okritvik/assets/40200916/c6499c25-628e-4d8c-b278-40af10357847" width="400" height="600"
 </p>
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/><h2>Hey there! I'm Kumara Ritvik Oruganti</h2>
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop intelligent hardware and software solutions.\
-🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
-:robot: &nbsp;I'm on track for learning more about Autonomous Systems, Robotics Tools, Hardware for Robotics Applications, Path Planning, Computer Vision, Artificial Intelligence, Control Systems Design, Robot Modelling and ROS.\
+🎓 &nbsp;I graduated with Masters in Robotics at the University of Maryland, College Park in May 2023, and currently working as an Embedded Software Engineer - 2 at the [Raymond Corporation](raymondcorp.com).\
+:robot: &nbsp;I'm on track for learning more about Autonomous Systems, Robotics Tools, Hardware for Robotics Applications, Path Planning, Computer Vision, Artificial Intelligence, Control Systems Design, Robot Modelling and Robot Operating System.\
 :man_artist: &nbsp;In my free time, I play Mridangam (South Indian Classical percussion instrument) and badminton as hobbies.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at okritvik@umd.edu. I will try to respond as soon as I can.\
@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-<img src="https://user-images.githubusercontent.com/40200916/183264814-f13b2403-10c2-47b4-863c-353aafc0a42d.jpeg" height="28" width="45" />
+<img src="https://user-images.githubusercontent.com/40200916/183264814-f13b2403-10c2-47b4-863c-353aafc0a42d.jpeg" height="28" width="45" />\
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Structed Text](https://img.shields.io/badge/Structured-Text-blue)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;\
