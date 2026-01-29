@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-<img src="https://github.com/okritvik/okritvik/assets/40200916/c6499c25-628e-4d8c-b278-40af10357847" width="400" height="600"
+<img src="https://github.com/user-attachments/assets/8b5653b6-92f5-4639-a677-f31173df8519" width="360" height="640"
 </p>
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/><h2>Hey there! I'm Kumara Ritvik Oruganti</h2>
