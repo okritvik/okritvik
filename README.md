@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop intelligent hardware and software solutions.\
-🎓 &nbsp;I graduated with Masters in Robotics at the University of Maryland, College Park in May 2023, and currently working as an Embedded Software Engineer - 2 at the [Raymond Corporation](raymondcorp.com).\
-:robot: &nbsp;I'm on track for learning more about Autonomous Systems, Robotics Tools, Hardware for Robotics Applications, Path Planning, Computer Vision, Artificial Intelligence, Control Systems Design, Robot Modelling and Robot Operating System.\
+🎓 &nbsp;I am currently pursuing PhD at the Lehigh University with Professor Subhrajit Bhattacharya. I graduated with a Masters in Robotics from the University of Maryland, College Park in May 2023, and worked as an Embedded Software Engineer - 2 at [The Raymond Corporation (TMHNA)](raymondcorp.com).\
+:robot: &nbsp;I'm on track for learning more about Motion and Path Planning, Multi-Agent Systems, Autonomous Systems, Control Systems, Robotics Tools, Hardware for Robotics Applications, Computer Vision, Artificial Intelligence, Robot Modelling and Robot Operating System.\
 :man_artist: &nbsp;In my free time, I play Mridangam (South Indian Classical percussion instrument) and badminton as hobbies.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at okritvik@umd.edu. I will try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at kuo225@lehigh.edu. I will try to respond as soon as I can.\
 :information_source: &nbsp;Please have a look at my [Website](https://www.okritvik.com) for more details. I'm open to feedback and suggestions!
 
 <img alt="Robot Design" src="https://user-images.githubusercontent.com/40200916/183264737-d8d2f9e0-b501-4142-b10f-08131e2439c2.gif" align="right" width="330" height="300"/>
@@ -71,6 +71,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.okritvik.com"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/okritvik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:okritvik@umd.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/theoruganti"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:kuo225@lehigh.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
